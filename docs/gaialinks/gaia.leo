@@ -24,7 +24,7 @@
 <v t="josephorr.20170930122535.1"><vh>[Sheet Music with Visual Indicator](https://www.youtube.com/playlist?list=PLeVVoyYIFjtJUpDswiFr3VPp5zp0apt-3)</vh></v>
 </v>
 </v>
-<v t="josephorr.20170930123137.1" a="E"><vh>Math</vh>
+<v t="josephorr.20170930123137.1"><vh>Math</vh>
 <v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.com/squares)</vh></v>
 </v>
 </v>
@@ -38,9 +38,7 @@ Gaia's Web Library
 <t tx="josephorr.20170624183412.1"> 
 
 </t>
-<t tx="josephorr.20170624183423.1">&lt;div&gt;
-&lt;youtube :video-id="'5tN6eynMMNw'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt; </t>
+<t tx="josephorr.20170624183423.1"></t>
 <t tx="josephorr.20170930115737.1">&lt;div&gt;
 &lt;youtube :video-id="'5ueJ4-lTa1s'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt; </t>

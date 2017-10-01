@@ -3,6 +3,8 @@
 
 [Sky's Links](https://kaleguy.github.io/leo-examples/skylinks)
 
+[Gaia's Links](https://kaleguy.github.io/leo-examples/gaialinks)
+
 How to create your own Leo/Leoviewer site:
 
 * Create a folder

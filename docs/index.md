@@ -5,6 +5,9 @@
 
 [Gaia's Links](https://kaleguy.github.io/leo-examples/gaialinks)
 
+Example from the xml2leo repository:
+[Shakespeare's Plays](https://kaleguy.github.io/leoviewer/examples/shakespeare/#/t/1)
+
 How to create your own Leo/Leoviewer site:
 
 * Create a folder

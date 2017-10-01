@@ -10,16 +10,16 @@
 <find_panel_settings/>
 <vnodes>
 <v t="josephorr.20170624183249.2" a="E"><vh>Gaia's Reference Links</vh>
-<v t="josephorr.20170624183412.1"><vh>Dance</vh>
+<v t="josephorr.20170624183412.1" a="E"><vh>Dance</vh>
 <v t="josephorr.20170930115737.1"><vh>New Swing</vh></v>
 <v t="josephorr.20170930115801.1"><vh>Popping</vh></v>
 </v>
 <v t="josephorr.20170624183423.1" a="E"><vh>Violin</vh>
-<v t="josephorr.20170930120304.1" a="E"><vh>Performances</vh>
+<v t="josephorr.20170930120304.1"><vh>Performances</vh>
 <v t="josephorr.20170930120450.1"><vh>Classical</vh></v>
 <v t="josephorr.20170930120455.1"><vh>Bluegrass</vh></v>
 </v>
-<v t="josephorr.20170930120313.1" a="E"><vh>Suzuki</vh>
+<v t="josephorr.20170930120313.1"><vh>Suzuki</vh>
 <v t="josephorr.20170930121218.1"><vh>[First Year with Kevin Yen](xttps://www.youtube.com/playlist?list=PLB606F40DF8A11AAE)</vh></v>
 <v t="josephorr.20170930122535.1"><vh>[Sheet Music with Visual Indicator](xttps://www.youtube.com/playlist?list=PLeVVoyYIFjtJUpDswiFr3VPp5zp0apt-3)</vh></v>
 </v>
@@ -48,6 +48,10 @@ Gaia's Web Library
 &lt;div&gt;
 &lt;youtube :video-id="'X6SC37kMlkI'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt; 
+&lt;div&gt;
+&lt;youtube :video-id="'_fqbrZ6GkuY'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt; 
+
 </t>
 <t tx="josephorr.20170930120304.1"></t>
 <t tx="josephorr.20170930120313.1"></t>

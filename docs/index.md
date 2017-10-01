@@ -1,4 +1,4 @@
-<div style="height:80px"></div>
+<div style="height:40px"></div>
 # Leo Examples
 
 [Sky's Links](https://kaleguy.github.io/leo-examples/skylinks)

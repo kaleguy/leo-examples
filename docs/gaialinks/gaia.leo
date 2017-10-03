@@ -28,8 +28,8 @@
 <v t="josephorr.20170930122535.1"><vh>[Sheet Music with Visual Indicator](xttps://www.youtube.com/playlist?list=PLeVVoyYIFjtJUpDswiFr3VPp5zp0apt-3)</vh></v>
 </v>
 </v>
-<v t="josephorr.20170930123137.1"><vh>Math</vh>
-<v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.com/squares)</vh></v>
+<v t="josephorr.20170930123137.1" a="E"><vh>Math</vh>
+<v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.io/squares)</vh></v>
 </v>
 </v>
 </vnodes>

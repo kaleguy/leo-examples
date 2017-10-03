@@ -12,7 +12,10 @@
 <v t="josephorr.20170624183249.2" a="E"><vh>Gaia's Reference Links</vh>
 <v t="josephorr.20170624183412.1" a="E"><vh>Dance</vh>
 <v t="josephorr.20170930115737.1"><vh>New Swing</vh></v>
-<v t="josephorr.20170930115801.1"><vh>Popping</vh></v>
+<v t="josephorr.20170930115801.1" a="E"><vh>Popping</vh>
+<v t="josephorr.20171002204609.1"><vh>Urban Dance Camp</vh></v>
+<v t="josephorr.20171002204522.1"><vh>Nonstop Marquese Scott</vh></v>
+</v>
 </v>
 <v t="josephorr.20170624183423.1" a="E"><vh>Violin</vh>
 <v t="josephorr.20170930120304.1"><vh>Performances</vh>
@@ -51,6 +54,10 @@ Gaia's Web Library
 &lt;div&gt;
 &lt;youtube :video-id="'_fqbrZ6GkuY'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt; 
+&lt;div&gt;
+&lt;youtube :video-id="'fXXLZc7v2r4'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt; 
+
 
 </t>
 <t tx="josephorr.20170930120304.1"></t>
@@ -65,5 +72,14 @@ Gaia's Web Library
 <t tx="josephorr.20170930122535.1"></t>
 <t tx="josephorr.20170930123137.1"></t>
 <t tx="josephorr.20170930123144.1"></t>
+<t tx="josephorr.20171002204522.1">&lt;div&gt;
+&lt;youtube :video-id="'UZQ_RDb0lcE'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="josephorr.20171002204609.1">&lt;div&gt;
+&lt;youtube :video-id="'qq4D9iwa6MM'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;youtube :video-id="'smiZhL9sTjM'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
 </tnodes>
 </leo_file>

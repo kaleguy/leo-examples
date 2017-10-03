@@ -29,7 +29,6 @@
 </v>
 </v>
 <v t="josephorr.20170930123137.1" a="E"><vh>Math</vh>
-<v t="josephorr.20171003000105.1"><vh>test</vh></v>
 <v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.io/squares)</vh></v>
 </v>
 </v>
@@ -84,6 +83,5 @@ Gaia's Web Library
 <t tx="josephorr.20171002204730.1">&lt;div&gt;
 &lt;youtube :video-id="'qq4D9iwa6MM'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
-<t tx="josephorr.20171003000105.1"></t>
 </tnodes>
 </leo_file>

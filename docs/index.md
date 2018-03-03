@@ -5,6 +5,9 @@
 
 [Gaia's Links](https://kaleguy.github.io/leo-examples/gaialinks)
 
+[leo4sqlite](https://kaleguy.github.io/leo-examples/leo4sqlite)
+
+
 Example from the xml2leo repository:
 [Shakespeare's Plays](https://kaleguy.github.io/leovue/examples/shakespeare/#/t/1)
 

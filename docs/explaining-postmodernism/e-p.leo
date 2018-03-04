@@ -83,6 +83,8 @@
 <t tx="josephorr.20180304090538.1"></t>
 <t tx="josephorr.20180304090626.1"></t>
 <t tx="josephorr.20180304090757.1"></t>
-<t tx="josephorr.20180304093832.1">This outline contains a chart from [Explaining Postmodernism](http://www.stephenhicks.org/explaining-postmodernism/).</t>
+<t tx="josephorr.20180304093832.1">@language md
+
+This outline contains a chart from [Explaining Postmodernism](http://www.stephenhicks.org/explaining-postmodernism/).</t>
 </tnodes>
 </leo_file>

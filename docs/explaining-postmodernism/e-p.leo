@@ -9,9 +9,9 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="josephorr.20180304093832.1"><vh>[The Explaining Postmodernism](http://www.stephenhicks.org/explaining-postmodernism/)</vh></v>
-<v t="josephorr.20180303205858.1" a="EM"><vh>@mermaidtd Chart 5.6: The Evolution of Socialist Strategies</vh>
-<v t="josephorr.20180303205958.1" a="E"><vh>Classical Marxism</vh>
+<v t="josephorr.20180304093832.1"><vh>Explaining Postmodernism</vh></v>
+<v t="josephorr.20180303205858.1" a="M"><vh>@mermaidtd Chart 5.6: The Evolution of Socialist Strategies</vh>
+<v t="josephorr.20180303205958.1"><vh>Classical Marxism</vh>
 <v t="josephorr.20180303210010.1" a="E"><vh>Wait for Masses to Revolt</vh>
 <v t="josephorr.20180303210048.1" a="E"><vh>Failure</vh>
 <v t="josephorr.20180303210425.1" a="E"><vh>Try Intellectual Vanguard, Industrial - Lenin</vh>
@@ -83,6 +83,6 @@
 <t tx="josephorr.20180304090538.1"></t>
 <t tx="josephorr.20180304090626.1"></t>
 <t tx="josephorr.20180304090757.1"></t>
-<t tx="josephorr.20180304093832.1"></t>
+<t tx="josephorr.20180304093832.1">This outline contains a chart from [Explaining Postmodernism](http://www.stephenhicks.org/explaining-postmodernism/).</t>
 </tnodes>
 </leo_file>

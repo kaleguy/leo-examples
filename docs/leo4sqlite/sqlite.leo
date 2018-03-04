@@ -2668,16 +2668,16 @@ def db3_tbl_idx(c):
 
 **The commands currently added by the plugin are:**
 
- | sqlite-make-template"
- | sqlite-import-table
- | sqlite-export-table
- | sqlite-open-blob
- | sqlite-view-blob
- | sqlite-insert-blob
- | sqlite-extract-blob
- | sqlite-reset-temp
- | sqlite-clear-data
- | sqlite-purge-files
+ |* sqlite-make-template
+ |* sqlite-import-table
+ |* sqlite-export-table
+ |* sqlite-open-blob
+ |* sqlite-view-blob
+ |* sqlite-insert-blob
+ |* sqlite-extract-blob
+ |* sqlite-reset-temp
+ |* sqlite-clear-data
+ |* sqlite-purge-files
  |
  
 I want to make this the best plugin I can rather than rushing to finish it. Leo deserves no less! Please provide any feedback you can, and don't hesitate to suggest improvements! :-)

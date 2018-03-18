@@ -13,7 +13,6 @@
 <v t="josephorr.20170624183412.1" a="E"><vh>Dance</vh>
 <v t="josephorr.20170930115737.1"><vh>New Swing</vh></v>
 <v t="josephorr.20170930115801.1" a="E"><vh>Popping</vh>
-<v t="josephorr.20171014154357.1"><vh>Poppin John</vh></v>
 <v t="josephorr.20171002204522.1"><vh>Nonstop Marquese Scott</vh></v>
 <v t="josephorr.20171014154440.1"><vh>Popping John and Nonstop Marquese Scott</vh></v>
 <v t="josephorr.20171015201635.1"><vh>Blondy</vh></v>
@@ -34,8 +33,8 @@
 <v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.io/squares)</vh></v>
 </v>
 <v t="josephorr.20171014154715.1" a="E"><vh>Coding</vh>
-<v t="josephorr.20171014154718.1"><vh>[Code.org](http://www.code.org)</vh></v>
-<v t="josephorr.20171014154801.1"><vh>Typing Club</vh></v>
+<v t="josephorr.20171014154718.1"><vh>[Code.org](https://www.code.org)</vh></v>
+<v t="josephorr.20171014154801.1"><vh>[Typing Club](https://www.typingclub.com/)</vh></v>
 </v>
 </v>
 </vnodes>
@@ -112,7 +111,6 @@ Gaia's Web Library
 <t tx="josephorr.20171002204730.1">&lt;div&gt;
 &lt;youtube :video-id="'qq4D9iwa6MM'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
-<t tx="josephorr.20171014154357.1"></t>
 <t tx="josephorr.20171014154440.1">&lt;div&gt;
 &lt;youtube :video-id="'smiZhL9sTjM'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>

@@ -12,7 +12,7 @@
 <v t="josephorr.20170624183249.2" a="E"><vh>Gaia's Reference Links</vh>
 <v t="josephorr.20170624183412.1" a="E"><vh>Dance</vh>
 <v t="josephorr.20170930115737.1"><vh>New Swing</vh></v>
-<v t="josephorr.20170930115801.1" a="E"><vh>Popping</vh>
+<v t="josephorr.20170930115801.1"><vh>Popping</vh>
 <v t="josephorr.20171002204522.1"><vh>Nonstop Marquese Scott</vh></v>
 <v t="josephorr.20171014154440.1"><vh>Popping John and Nonstop Marquese Scott</vh></v>
 <v t="josephorr.20171015201635.1"><vh>Blondy</vh></v>
@@ -29,12 +29,14 @@
 <v t="josephorr.20170930122535.1"><vh>[Sheet Music with Visual Indicator](xttps://www.youtube.com/playlist?list=PLeVVoyYIFjtJUpDswiFr3VPp5zp0apt-3)</vh></v>
 </v>
 </v>
+<v t="josephorr.20180324190053.1" a="E"><vh>Piano</vh>
+<v t="josephorr.20180324190056.1"><vh>Easy Pieces</vh></v>
+</v>
+<v t="josephorr.20180324212801.1" a="E"><vh>Study</vh>
+<v t="josephorr.20180324212901.1"><vh>Other Sites</vh></v>
 <v t="josephorr.20170930123137.1" a="E"><vh>Math</vh>
 <v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.io/squares)</vh></v>
 </v>
-<v t="josephorr.20171014154715.1" a="E"><vh>Coding</vh>
-<v t="josephorr.20171014154718.1"><vh>[Code.org](https://www.code.org)</vh></v>
-<v t="josephorr.20171014154801.1"><vh>[Typing Club](https://www.typingclub.com/)</vh></v>
 </v>
 </v>
 </vnodes>
@@ -114,11 +116,19 @@ Gaia's Web Library
 <t tx="josephorr.20171014154440.1">&lt;div&gt;
 &lt;youtube :video-id="'smiZhL9sTjM'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
-<t tx="josephorr.20171014154715.1"></t>
-<t tx="josephorr.20171014154718.1"></t>
-<t tx="josephorr.20171014154801.1"></t>
 <t tx="josephorr.20171015201635.1">&lt;div&gt;
 &lt;youtube :video-id="'d3wFWXSQSjk'" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
+<t tx="josephorr.20180324190053.1"></t>
+<t tx="josephorr.20180324190056.1">&lt;div&gt;
+&lt;youtube video-id="RQ2d30af-bU" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt; 
+</t>
+<t tx="josephorr.20180324212801.1">@language md
+
+</t>
+<t tx="josephorr.20180324212901.1">[Code.org](https://www.code.org)
+
+[Typing Club](https://www.typingclub.com/)</t>
 </tnodes>
 </leo_file>

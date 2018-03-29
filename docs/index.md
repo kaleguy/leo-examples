@@ -23,3 +23,9 @@ How to create your own Leo/Leo Vue site:
 
 Note that if your Leo file contains diagrams, you'll need to include Onsen and Mermaid (see the
  [Diagram Example](https://kaleguy.github.io/leo-examples/explaining-postmodernism))
+
+# Page Outliner
+
+Leo Vue can also outline a page that supports HTML5 outlining, without a leo file:
+
+[Outliner Example](https://kaleguy.github.io/leo-examples/outliner/#/t/1/?outlineUrl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDinosaur&outlineTitle=Dinosaur)

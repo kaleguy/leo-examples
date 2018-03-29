@@ -12,7 +12,9 @@
 Example from the xml2leo repository:
 [Shakespeare's Plays](https://kaleguy.github.io/leovue/examples/shakespeare/#/t/1)
 
-How to create your own Leo/Leo Vue site:
+
+
+## How to create your own Leo/Leo Vue site:
 
 * Create a folder
 * Create a leo file in the folder (See [Leo Vue](https://kaleguy.github.io/leovue/) for more info about Leo).

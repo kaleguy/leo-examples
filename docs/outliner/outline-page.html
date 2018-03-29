@@ -3,8 +3,8 @@
     <meta charset="UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Wikipedia Page Outliner</title>
-    <meta name="description" content="Load a Wikipedia Page into a Leo Vue Outline"/>
+    <title>Page Outliner</title>
+    <meta name="description" content="Load a Web Page into a Leo Vue Outline"/>
     <meta name="keywords" content="wikipedia outliner HTML Outlines"/>
     <meta name="author" content="Codrops"/>
     <link rel="stylesheet" type="text/css" href="css/normalize.css"/>
@@ -14,34 +14,31 @@
 </head>
 <body>
 <section class="content bgcolor-3" style="height:100%; padding:100px;text-align:center">
-    <h2>Wikipedia Page Outliner</h2>
+    <h2>Page Outliner</h2>
     <span class="input input--manami">
 					<input class="input__field input__field--manami" type="text" id="input-33"/>
 					<label class="input__label input__label--manami" for="input-33">
-						<span class="input__label-content input__label-content--manami">Search Term</span>
+						<span class="input__label-content input__label-content--manami">Enter URL</span>
 					</label>
 				</span>
-    <div style="margin-left:auto; margin-right:auto; width: 300px; margin-top: 80px; font-size: 0.7em">
-        Enter a search term to view a Wikipedia page outlined in Leo Vue.
+    <div style="margin-left:auto; margin-right:auto; width: 300px; margin-top: 80px; font-size: 0.7em; line-height:1.3">
+        Enter a url of a web page with an HTML5 outline, the page will be loaded into a Leo Vue outline.
     </div>
 </section>
 </body>
 <script>
-  function capitalize(s) {
-    return s && s[0].toUpperCase() + s.slice(1);
-  }
   var inputBox = document.getElementById("input-33")
   inputBox.addEventListener("keyup", function(event) {
     event.preventDefault();
     if (event.keyCode === 13) {
       console.log(inputBox.value)
       // window.location.assign('https://en.wikipedia.org/wiki/' + inputBox.value)
-      var url = "https://kaleguy.github.io/leo-examples/outliner/#/t/1/?outlineUrl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F" +
-        inputBox.value +
-        "&outlineTitle=" +
-        capitalize(inputBox.value);
+      var url = "https://kaleguy.github.io/leo-examples/outliner/#/t/1/?outlineUrl=" +
+        inputBox.value;
       window.location.assign(url)
     }
   });
+  // https://github.com/codrops/TextInputEffects
 </script>
+
 </html>

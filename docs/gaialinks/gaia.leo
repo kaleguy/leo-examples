@@ -10,7 +10,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="josephorr.20170624183249.2" a="E"><vh>Gaia's Reference Links</vh>
-<v t="josephorr.20170624183412.1" a="E"><vh>Dance</vh>
+<v t="josephorr.20170624183412.1"><vh>Dance</vh>
 <v t="josephorr.20170930115737.1"><vh>New Swing</vh></v>
 <v t="josephorr.20170930115801.1"><vh>Popping</vh>
 <v t="josephorr.20171002204522.1"><vh>Nonstop Marquese Scott</vh></v>
@@ -30,6 +30,7 @@
 </v>
 </v>
 <v t="josephorr.20180324190053.1" a="E"><vh>Piano</vh>
+<v t="josephorr.20180324213759.1"><vh>Learning Piano</vh></v>
 <v t="josephorr.20180324190056.1"><vh>Easy Pieces</vh></v>
 </v>
 <v t="josephorr.20180324212801.1" a="E"><vh>Study</vh>
@@ -130,5 +131,8 @@ Gaia's Web Library
 <t tx="josephorr.20180324212901.1">[Code.org](https://www.code.org)
 
 [Typing Club](https://www.typingclub.com/)</t>
+<t tx="josephorr.20180324213759.1">@language md
+
+[Synthesia](http://www.synthesiagame.com/)</t>
 </tnodes>
 </leo_file>

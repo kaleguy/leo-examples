@@ -33,9 +33,9 @@ In the above example, the url of the page to be outlined and a title are passed 
 
 These pages are convenience pages for testing:
 
-(Outline a Wikipedia Page)[outline-page.html]
+(Outline a Wikipedia Page)[https://kaleguy.github.io/leo-examples/outline-page.html]
 
-(Outline a Web Page)[outline-wikipedia.html]
+(Outline a Web Page)[https://kaleguy.github.io/leo-examples/outline-wikipedia.html]
 
 The Wikipedia pages seem to work with the outliner, but not many other sites have been tested.
 If you want to outline a page and it seems to support HTML5 Outlines but doesn't display

@@ -14,7 +14,6 @@
 <v t="josephorr.20180414141543.1"><vh>@rg 309182447_Validating_self-paced_sentence-by-sentence_reading_story_comprehension_recall_and_narrative_transportation</vh></v>
 <v t="josephorr.20180414141606.1"><vh>@rg 304662727_Ideological_Reactivity_Political_Conservatism_and_Brain_Responsivity_to_Emotional_and_Neutral_Stimuli</vh></v>
 <v t="josephorr.20180414141634.1"><vh>@rg 301698900_From_Dispositions_to_Goals_to_Ideology_Toward_a_Synthesis_of_Personality_and_Social_Psychological_Approaches_to_Political_Orientation</vh></v>
-<v t="josephorr.20180414141719.1"><vh>@rg 301698900_From_Dispositions_to_Goals_to_Ideology_Toward_a_Synthesis_of_Personality_and_Social_Psychological_Approaches_to_Political_Orientation</vh></v>
 <v t="josephorr.20180414141735.1"><vh>@rg 288074226_Quantifying_the_scientific_output_of_new_researchers_using_the_zp-index</vh></v>
 </v>
 </vnodes>
@@ -26,7 +25,6 @@
 <t tx="josephorr.20180414141543.1"></t>
 <t tx="josephorr.20180414141606.1"></t>
 <t tx="josephorr.20180414141634.1"></t>
-<t tx="josephorr.20180414141719.1"></t>
 <t tx="josephorr.20180414141735.1"></t>
 </tnodes>
 </leo_file>

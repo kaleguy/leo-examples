@@ -10,13 +10,13 @@
 <find_panel_settings/>
 <vnodes>
 <v t="josephorr.20180329190106.2" a="E"><vh>Research of Jordan B Peterson</vh>
-<v t="josephorr.20180413193728.1"><vh>[Jordan Peterson](xttps://www.researchgate.net/profile/Jordan_Peterson2)</vh></v>
 <v t="josephorr.20180329190116.1"><vh>@rg 320675379_The_publication_trajectory_of_graduate_students_post-doctoral_fellows_and_new_professors_in_psychology)</vh></v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="josephorr.20180329190106.2"></t>
+<t tx="josephorr.20180329190106.2">@language md
+
+[Jordan Peterson on ResearchGate](https://www.researchgate.net/profile/Jordan_Peterson2)</t>
 <t tx="josephorr.20180329190116.1"></t>
-<t tx="josephorr.20180413193728.1"></t>
 </tnodes>
 </leo_file>

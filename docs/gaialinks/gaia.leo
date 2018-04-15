@@ -33,12 +33,13 @@
 <v t="josephorr.20180324213759.1"><vh>Learning Piano</vh></v>
 <v t="josephorr.20180324190056.1"><vh>Easy Pieces</vh></v>
 </v>
-<v t="josephorr.20180324212801.1" a="E"><vh>Study</vh>
+<v t="josephorr.20180324212801.1"><vh>Study</vh>
 <v t="josephorr.20180324212901.1"><vh>Other Sites</vh></v>
 <v t="josephorr.20170930123137.1" a="E"><vh>Math</vh>
 <v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.io/squares)</vh></v>
 </v>
 </v>
+<v t="josephorr.20180415133607.1"><vh>Timelapse</vh></v>
 </v>
 </vnodes>
 <tnodes>
@@ -134,5 +135,8 @@ Gaia's Web Library
 <t tx="josephorr.20180324213759.1">@language md
 
 [Synthesia](http://www.synthesiagame.com/)</t>
+<t tx="josephorr.20180415133607.1">&lt;div&gt;
+&lt;youtube video-id="FdYTpqbwAIQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
 </tnodes>
 </leo_file>

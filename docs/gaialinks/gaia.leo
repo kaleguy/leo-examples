@@ -29,7 +29,7 @@
 <v t="josephorr.20170930122535.1"><vh>[Sheet Music with Visual Indicator](xttps://www.youtube.com/playlist?list=PLeVVoyYIFjtJUpDswiFr3VPp5zp0apt-3)</vh></v>
 </v>
 </v>
-<v t="josephorr.20180324190053.1" a="E"><vh>Piano</vh>
+<v t="josephorr.20180324190053.1"><vh>Piano</vh>
 <v t="josephorr.20180324213759.1"><vh>Learning Piano</vh></v>
 <v t="josephorr.20180324190056.1"><vh>Easy Pieces</vh></v>
 </v>
@@ -40,6 +40,9 @@
 </v>
 </v>
 <v t="josephorr.20180415133607.1"><vh>Timelapse</vh></v>
+<v t="josephorr.20180415165210.1" a="E"><vh>Books</vh>
+<v t="josephorr.20180415165407.1"><vh>@book [The Westing Game](0439412811)</vh></v>
+</v>
 </v>
 </vnodes>
 <tnodes>
@@ -138,5 +141,7 @@ Gaia's Web Library
 <t tx="josephorr.20180415133607.1">&lt;div&gt;
 &lt;youtube video-id="FdYTpqbwAIQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
+<t tx="josephorr.20180415165210.1"></t>
+<t tx="josephorr.20180415165407.1"></t>
 </tnodes>
 </leo_file>

@@ -46,6 +46,15 @@
 <v t="josephorr.20180415170558.1"><vh>@book [Where the Mountain Meets the Moon](9780316038638)</vh></v>
 <v t="josephorr.20180415170638.1"><vh>@book [Chains](9781416905868)</vh></v>
 <v t="josephorr.20180415170705.1"><vh>@book [When the Sea Turned To Silver](9780316125949)</vh></v>
+<v t="josephorr.20180415172655.1"><vh>@book [Pablo and Birdy](9781481494588)</vh></v>
+<v t="josephorr.20180415172724.1"><vh>@book [Wishtree](9781250043221)</vh></v>
+<v t="josephorr.20180415172818.1"><vh>@book [Starring Sally J. Freedman as Herself](0440482534)</vh></v>
+<v t="josephorr.20180415172910.1"><vh>@book [Drums, Girls and Dangerous Pie](0439755190)</vh></v>
+<v t="josephorr.20180415172943.1"><vh>@book [Warriors - Into the Wild](9780062366962)</vh></v>
+<v t="josephorr.20180415173015.1"><vh>@book [Forget Me Not](9781250096272)</vh></v>
+<v t="josephorr.20180415173046.1"><vh>@book [The Fingertips of Duncan Dorfman](9780142422045)</vh></v>
+<v t="josephorr.20180415173122.1"><vh>@book [Are You There God? It's Me Margaret](9780440404194)</vh></v>
+<v t="josephorr.20180415173244.1"><vh>@book [Wonder](9780375869020)</vh></v>
 </v>
 </v>
 </vnodes>
@@ -151,5 +160,14 @@ Gaia's Web Library
 <t tx="josephorr.20180415170558.1"></t>
 <t tx="josephorr.20180415170638.1"></t>
 <t tx="josephorr.20180415170705.1"></t>
+<t tx="josephorr.20180415172655.1"></t>
+<t tx="josephorr.20180415172724.1"></t>
+<t tx="josephorr.20180415172818.1"></t>
+<t tx="josephorr.20180415172910.1"></t>
+<t tx="josephorr.20180415172943.1"></t>
+<t tx="josephorr.20180415173015.1"></t>
+<t tx="josephorr.20180415173046.1"></t>
+<t tx="josephorr.20180415173122.1"></t>
+<t tx="josephorr.20180415173244.1"></t>
 </tnodes>
 </leo_file>

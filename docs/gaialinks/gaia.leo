@@ -155,7 +155,7 @@ Gaia's Web Library
 &lt;youtube video-id="FdYTpqbwAIQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
 <t tx="josephorr.20180415165210.1"></t>
-<t tx="josephorr.20180415165407.1"></t>
+<t tx="josephorr.20180415165407.1">rating: 5</t>
 <t tx="josephorr.20180415170531.1"></t>
 <t tx="josephorr.20180415170558.1"></t>
 <t tx="josephorr.20180415170638.1"></t>

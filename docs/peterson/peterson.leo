@@ -118,7 +118,6 @@
 <v t="josephorr.20180416193925.1"><vh>@rg 21353541_The_Tridimensional_Personality_Questionnaire_and_the_inherited_risk_for_alcoholism</vh></v>
 <v t="josephorr.20180416193939.1"><vh>@rg 234081762_Attention-deficit_hyperactivity_disorder,_childhood_conduct_disorder_and_alcoholism:_Is_there_an_association?</vh></v>
 <v t="josephorr.20180416193955.1"><vh>@rg 20848433_Acute_alcohol_intoxication_and_cognitive_functioning</vh></v>
-<v t="josephorr.20180416194102.1"><vh>@rg 20848433_Acute_alcohol_intoxication_and_cognitive_functioning</vh></v>
 <v t="josephorr.20180416202245.1"><vh>@rg 21002590_Information_processing,_neuropsychological_function_and_the_inherited_predisposition_to_alcoholism</vh></v>
 <v t="josephorr.20180416202302.1"><vh>@rg 232458007_Acute_alcohol_intoxication_and_cognitive_functioning</vh></v>
 <v t="josephorr.20180416202331.1"><vh>@rg 232523002_A_heuristic_model_for_the_inherited_predisposition_to_alcoholism</vh></v>
@@ -228,7 +227,6 @@
 <t tx="josephorr.20180416193925.1"></t>
 <t tx="josephorr.20180416193939.1"></t>
 <t tx="josephorr.20180416193955.1"></t>
-<t tx="josephorr.20180416194102.1"></t>
 <t tx="josephorr.20180416202245.1"></t>
 <t tx="josephorr.20180416202302.1"></t>
 <t tx="josephorr.20180416202331.1"></t>

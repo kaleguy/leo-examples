@@ -191,7 +191,7 @@ Gaia's Web Library
 <t tx="josephorr.20180903141055.1">https://www.stevepavlina.com/blog/2018/07/the-root-cause-of-scarcity-and-the-solution/</t>
 <t tx="josephorr.20180923064907.1">@language md</t>
 <t tx="josephorr.20180923065005.1">[Containium](http://www.containium.com)</t>
-<t tx="josephorr.20180923065056.1">[Spider Robot](www.vorpalrobotics.com)</t>
-<t tx="josephorr.20180923065152.1">[Fabshop](www.fabshop.com)</t>
+<t tx="josephorr.20180923065056.1">[Spider Robot](http://www.vorpalrobotics.com)</t>
+<t tx="josephorr.20180923065152.1">[Fabshop](http://www.fabshop.com)</t>
 </tnodes>
 </leo_file>

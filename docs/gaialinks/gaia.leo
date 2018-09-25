@@ -59,11 +59,8 @@
 <v t="josephorr.20180415173122.1"><vh>@book [Are You There God? It's Me Margaret](9780440404194)</vh></v>
 <v t="josephorr.20180415173244.1"><vh>@book [Wonder](9780375869020)</vh></v>
 </v>
-<v t="josephorr.20180510054752.1"><vh>Articles</vh>
+<v t="josephorr.20180510054752.1" a="E"><vh>Articles</vh>
 <v t="josephorr.20180513113737.1"><vh>Goal Setting</vh></v>
-</v>
-<v t="josephorr.20180903141043.1"><vh>Self Actualization</vh>
-<v t="josephorr.20180903141055.1"><vh>The Cause of Scarcity</vh></v>
 </v>
 <v t="josephorr.20180923064907.1" a="E"><vh>Maker Faire 2018</vh>
 <v t="josephorr.20180923065005.1"><vh>Buildings</vh></v>
@@ -194,10 +191,10 @@ Gaia's Web Library
 &lt;youtube video-id="c4S3hf1Uy2w" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;
 </t>
-<t tx="josephorr.20180513113737.1">https://medium.com/thrive-global/the-1-reason-to-set-unrealistic-goals-and-its-not-achieving-the-goal-607ac6287c87</t>
+<t tx="josephorr.20180513113737.1">[Goal Setting](https://medium.com/thrive-global/the-1-reason-to-set-unrealistic-goals-and-its-not-achieving-the-goal-607ac6287c87)
+
+[The Root Cause of Scarcity](https://www.stevepavlina.com/blog/2018/07/the-root-cause-of-scarcity-and-the-solution/)</t>
 <t tx="josephorr.20180513211918.1">https://www.youtube.com/watch?v=0Lub_6v5N-I</t>
-<t tx="josephorr.20180903141043.1"></t>
-<t tx="josephorr.20180903141055.1">https://www.stevepavlina.com/blog/2018/07/the-root-cause-of-scarcity-and-the-solution/</t>
 <t tx="josephorr.20180923064907.1">@language md</t>
 <t tx="josephorr.20180923065005.1">[Containium](http://www.containium.com)
 

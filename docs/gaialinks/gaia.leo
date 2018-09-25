@@ -10,7 +10,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="josephorr.20170624183249.2" a="E"><vh>Gaia's Reference Links</vh>
-<v t="josephorr.20170624183412.1"><vh>Dance</vh>
+<v t="josephorr.20170624183412.1" a="E"><vh>Dance</vh>
 <v t="josephorr.20170930115737.1"><vh>New Swing</vh></v>
 <v t="josephorr.20170930115801.1" a="E"><vh>Popping</vh>
 <v t="josephorr.20171002204522.1"><vh>Nonstop Marquese Scott</vh></v>
@@ -41,7 +41,9 @@
 <v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.io/squares)</vh></v>
 </v>
 </v>
+<v t="josephorr.20180924193513.1" a="E"><vh>Other Videos</vh>
 <v t="josephorr.20180415133607.1"><vh>Timelapse</vh></v>
+</v>
 <v t="josephorr.20180415165210.1"><vh>Books</vh>
 <v t="josephorr.20180415165407.1"><vh>@book [The Westing Game](9780142401200)</vh></v>
 <v t="josephorr.20180415170531.1"><vh>@book [Counting by Sevens](9780142422861)</vh></v>
@@ -67,6 +69,13 @@
 <v t="josephorr.20180923065005.1"><vh>Buildings</vh></v>
 <v t="josephorr.20180923065056.1"><vh>Robots</vh></v>
 <v t="josephorr.20180923065152.1"><vh>Electronics</vh></v>
+<v t="josephorr.20180924193012.1"><vh>Gadgets</vh></v>
+<v t="josephorr.20180924193129.1"><vh>3D Printing</vh></v>
+<v t="josephorr.20180924193248.1"><vh>Organizations</vh></v>
+<v t="josephorr.20180924194554.1"><vh>Maker Spaces</vh></v>
+<v t="josephorr.20180924194959.1"><vh>Music</vh></v>
+<v t="josephorr.20180924201148.1"><vh>Plants</vh></v>
+<v t="josephorr.20180924201944.1"><vh>Solar Power</vh></v>
 </v>
 </v>
 </vnodes>
@@ -190,8 +199,56 @@ Gaia's Web Library
 <t tx="josephorr.20180903141043.1"></t>
 <t tx="josephorr.20180903141055.1">https://www.stevepavlina.com/blog/2018/07/the-root-cause-of-scarcity-and-the-solution/</t>
 <t tx="josephorr.20180923064907.1">@language md</t>
-<t tx="josephorr.20180923065005.1">[Containium](http://www.containium.com)</t>
-<t tx="josephorr.20180923065056.1">[Spider Robot](http://www.vorpalrobotics.com)</t>
-<t tx="josephorr.20180923065152.1">[Fabshop](http://www.fabshop.com)</t>
+<t tx="josephorr.20180923065005.1">[Containium](http://www.containium.com)
+
+[OS 3D Designs](https://makerfaire.com/maker/entry/68007/)</t>
+<t tx="josephorr.20180923065056.1">[Spider Robot](http://www.vorpalrobotics.com)
+
+[Misty](http://www.mistyrobotics.com)
+
+[Teddy Bear Robot](http://teddyrobotics.com/)
+
+[2020 Bot](https://www.instructables.com/id/2020-Bot/)</t>
+<t tx="josephorr.20180923065152.1">Prototype Workboard:
+[Fabshop](http://www.fabshop.jp)
+
+Kits:
+[Samurai Circuits](http://samuraicircuits.com/merch/index.php)
+
+Electronics Course:
+[Applied Inspirations](http://appliedinspirations.com)</t>
+<t tx="josephorr.20180924193012.1">[oneTesla](http://onetesla.com)
+
+[Marble Machines](http://solarbotics.com)
+
+
+&lt;div&gt;
+&lt;youtube video-id="FWPrHLiR-W8" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt; 
+</t>
+<t tx="josephorr.20180924193129.1">[Mayku Formbox](http://www.mayku.me)
+
+[JellyBox](http://imade3d.com)
+
+[Chocolate Printer](http://www.cocoapress.com)
+
+[Electric Marble Machines](http://gualagadget.com)
+
+</t>
+<t tx="josephorr.20180924193248.1">[Engineers Without Borders](http://www.ewbny.org)
+
+[3Ducators](http://3ducators.com)</t>
+<t tx="josephorr.20180924193513.1"></t>
+<t tx="josephorr.20180924194554.1">[Makerspace NYC](http://www.makerspace.nyc)
+
+[Fat Cat Fab Lab](http://fatcatfablab.org)</t>
+<t tx="josephorr.20180924194959.1">[HonkNYC](http://honknyc.com)
+
+[Maker Hart](https://makerhart.com/)
+
+[PRUSA](http://prusa3d.com)
+</t>
+<t tx="josephorr.20180924201148.1">[Vertical Terrariums](http://ahiddenkingdom.com)</t>
+<t tx="josephorr.20180924201944.1">[Voltaic](voltaicsystems.com)</t>
 </tnodes>
 </leo_file>

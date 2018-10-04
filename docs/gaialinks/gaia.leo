@@ -43,10 +43,12 @@
 </v>
 <v t="josephorr.20180924193513.1" a="E"><vh>Other Videos</vh>
 <v t="josephorr.20180415133607.1"><vh>Timelapse</vh></v>
+<v t="josephorr.20181004183156.1"><vh>Nyangostar</vh></v>
 </v>
-<v t="josephorr.20180415165210.1"><vh>Books</vh>
-<v t="josephorr.20180415165407.1"><vh>@book [The Westing Game](9780142401200)</vh></v>
+<v t="josephorr.20180415165210.1" a="E"><vh>Books</vh>
+<v t="josephorr.20181004183318.1" a="E"><vh>Fiction General</vh>
 <v t="josephorr.20180415170531.1"><vh>@book [Counting by Sevens](9780142422861)</vh></v>
+<v t="josephorr.20180415165407.1"><vh>@book [The Westing Game](9780142401200)</vh></v>
 <v t="josephorr.20180415170558.1"><vh>@book [Where the Mountain Meets the Moon](9780316038638)</vh></v>
 <v t="josephorr.20180415170705.1"><vh>@book [When the Sea Turned To Silver](9780316125949)</vh></v>
 <v t="josephorr.20180415172655.1"><vh>@book [Pablo and Birdy](9781481470261)</vh></v>
@@ -58,6 +60,10 @@
 <v t="josephorr.20180415173046.1"><vh>@book [The Fingertips of Duncan Dorfman](9780142422045)</vh></v>
 <v t="josephorr.20180415173122.1"><vh>@book [Are You There God? It's Me Margaret](9780440404194)</vh></v>
 <v t="josephorr.20180415173244.1"><vh>@book [Wonder](9780375869020)</vh></v>
+</v>
+<v t="josephorr.20181004183426.1" a="E"><vh>Graphic Novels</vh>
+<v t="josephorr.20181004183325.1"><vh>@book [Blankets](9781770462182)</vh></v>
+</v>
 </v>
 <v t="josephorr.20180510054752.1" a="E"><vh>Articles</vh>
 <v t="josephorr.20180513113737.1"><vh>Goal Setting</vh></v>
@@ -247,5 +253,11 @@ Electronics Course:
 </t>
 <t tx="josephorr.20180924201148.1">[Vertical Terrariums](http://ahiddenkingdom.com)</t>
 <t tx="josephorr.20180924201944.1">[Voltaic](voltaicsystems.com)</t>
+<t tx="josephorr.20181004183156.1">&lt;div&gt;
+&lt;youtube video-id="lPkz_ippXfw" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="josephorr.20181004183318.1"></t>
+<t tx="josephorr.20181004183325.1"></t>
+<t tx="josephorr.20181004183426.1"></t>
 </tnodes>
 </leo_file>

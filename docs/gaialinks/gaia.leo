@@ -65,8 +65,9 @@
 <v t="josephorr.20181004183426.1"><vh>Graphic Novels</vh>
 <v t="josephorr.20181004183325.1"><vh>@book [Blankets](9781770462182)</vh></v>
 </v>
-<v t="josephorr.20181021113855.1"><vh>Coding</vh></v>
+<v t="josephorr.20181021113855.1" a="E"><vh>Coding</vh>
 <v t="josephorr.20181021113859.1"><vh>@book [Coding Projects in Python](9781465461889)</vh></v>
+</v>
 </v>
 <v t="josephorr.20180510054752.1" a="E"><vh>Articles</vh>
 <v t="josephorr.20180513113737.1"><vh>Goal Setting</vh></v>

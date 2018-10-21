@@ -60,10 +60,13 @@
 <v t="josephorr.20180415173046.1"><vh>@book [The Fingertips of Duncan Dorfman](9780142422045)</vh></v>
 <v t="josephorr.20180415173122.1"><vh>@book [Are You There God? It's Me Margaret](9780440404194)</vh></v>
 <v t="josephorr.20180415173244.1"><vh>@book [Wonder](9780375869020)</vh></v>
+<v t="josephorr.20181021113451.1"><vh>@book [Freak the Mighty](9780439286060)</vh></v>
 </v>
-<v t="josephorr.20181004183426.1" a="E"><vh>Graphic Novels</vh>
+<v t="josephorr.20181004183426.1"><vh>Graphic Novels</vh>
 <v t="josephorr.20181004183325.1"><vh>@book [Blankets](9781770462182)</vh></v>
 </v>
+<v t="josephorr.20181021113855.1"><vh>Coding</vh></v>
+<v t="josephorr.20181021113859.1"><vh>@book [Coding Projects in Python](9781465461889)</vh></v>
 </v>
 <v t="josephorr.20180510054752.1" a="E"><vh>Articles</vh>
 <v t="josephorr.20180513113737.1"><vh>Goal Setting</vh></v>
@@ -259,5 +262,8 @@ Electronics Course:
 <t tx="josephorr.20181004183318.1"></t>
 <t tx="josephorr.20181004183325.1"></t>
 <t tx="josephorr.20181004183426.1"></t>
+<t tx="josephorr.20181021113451.1"></t>
+<t tx="josephorr.20181021113855.1"></t>
+<t tx="josephorr.20181021113859.1"></t>
 </tnodes>
 </leo_file>

@@ -45,7 +45,7 @@
 <v t="josephorr.20180415133607.1"><vh>Timelapse</vh></v>
 <v t="josephorr.20181004183156.1"><vh>Nyangostar</vh></v>
 </v>
-<v t="josephorr.20180415165210.1"><vh>Books</vh>
+<v t="josephorr.20180415165210.1" a="E"><vh>Books</vh>
 <v t="josephorr.20181004183318.1" a="E"><vh>Fiction General</vh>
 <v t="josephorr.20180415170531.1"><vh>@book [Counting by Sevens](9780142422861)</vh></v>
 <v t="josephorr.20180415165407.1"><vh>@book [The Westing Game](9780142401200)</vh></v>
@@ -82,7 +82,7 @@
 <v t="josephorr.20180924201944.1"><vh>Solar Power</vh></v>
 </v>
 <v t="josephorr.20181021120433.1" a="E"><vh>Coding</vh>
-<v t="josephorr.20181021120436.1"><vh>[Arcade Academy](http://arcade.academy/#)</vh></v>
+<v t="josephorr.20181021120436.1"><vh>[Arcade Academy](xttp://arcade.academy)</vh></v>
 </v>
 </v>
 </vnodes>

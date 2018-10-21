@@ -81,9 +81,7 @@
 <v t="josephorr.20180924201148.1"><vh>Plants</vh></v>
 <v t="josephorr.20180924201944.1"><vh>Solar Power</vh></v>
 </v>
-<v t="josephorr.20181021120433.1" a="E"><vh>Coding</vh>
-<v t="josephorr.20181021120436.1"><vh>[Arcade xAcademy](xttp://arcade.academy)</vh></v>
-</v>
+<v t="josephorr.20181021120433.1"><vh>Coding</vh></v>
 </v>
 </vnodes>
 <tnodes>
@@ -263,7 +261,13 @@ Electronics Course:
 <t tx="josephorr.20181021113451.1"></t>
 <t tx="josephorr.20181021113855.1"></t>
 <t tx="josephorr.20181021113859.1"></t>
-<t tx="josephorr.20181021120433.1"></t>
-<t tx="josephorr.20181021120436.1"></t>
+<t tx="josephorr.20181021120433.1">@language md
+
+[Arcade Academy](http://arcade.academy/#)
+
+Instructions on Using Arcade Academy:
+[Arcade Academy](https://arcade-book.readthedocs.io/en/latest/)
+
+[Raspberry Pi Stop Motion Project](https://projects.raspberrypi.org/en/projects/push-button-stop-motion)</t>
 </tnodes>
 </leo_file>

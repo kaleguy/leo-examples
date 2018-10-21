@@ -56,9 +56,6 @@
 <v t="josephorr.20180415172818.1"><vh>@book [Starring Sally J. Freedman as Herself](0440482534)</vh></v>
 <v t="josephorr.20180415172910.1"><vh>@book [Drums, Girls and Dangerous Pie](0439755190)</vh></v>
 <v t="josephorr.20180415172943.1"><vh>@book [Warriors - Into the Wild](9780062366962)</vh></v>
-<v t="josephorr.20180415173015.1"><vh>@book [Forget Me Not](9781250096272)</vh></v>
-<v t="josephorr.20180415173046.1"><vh>@book [The Fingertips of Duncan Dorfman](9780142422045)</vh></v>
-<v t="josephorr.20180415173122.1"><vh>@book [Are You There God? It's Me Margaret](9780440404194)</vh></v>
 <v t="josephorr.20180415173244.1"><vh>@book [Wonder](9780375869020)</vh></v>
 <v t="josephorr.20181021113451.1"><vh>@book [Freak the Mighty](9780439286060)</vh></v>
 </v>
@@ -192,9 +189,6 @@ Gaia's Web Library
 <t tx="josephorr.20180415172818.1"></t>
 <t tx="josephorr.20180415172910.1"></t>
 <t tx="josephorr.20180415172943.1"></t>
-<t tx="josephorr.20180415173015.1"></t>
-<t tx="josephorr.20180415173046.1"></t>
-<t tx="josephorr.20180415173122.1"></t>
 <t tx="josephorr.20180415173244.1"></t>
 <t tx="josephorr.20180510054752.1">@language md</t>
 <t tx="josephorr.20180510054814.1">&lt;div&gt;

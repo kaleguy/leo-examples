@@ -82,7 +82,7 @@
 <v t="josephorr.20180924201944.1"><vh>Solar Power</vh></v>
 </v>
 <v t="josephorr.20181021120433.1" a="E"><vh>Coding</vh>
-<v t="josephorr.20181021120436.1"><vh>[Arcade Academy](978-1465461889)</vh></v>
+<v t="josephorr.20181021120436.1"><vh>[Arcade Academy](http://arcade.academy/#)</vh></v>
 </v>
 </v>
 </vnodes>

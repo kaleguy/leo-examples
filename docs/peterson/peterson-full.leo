@@ -331,7 +331,10 @@
 # About this Document
 
 This outlined site was created with the Open Source outlining editor [Leo](http://www.leoeditor.com) and is being displayed with 
-[LeoVue](https://kaleguy.github.io/leovue/)
+[LeoVue](https://kaleguy.github.io/leovue/).
+
+To edit this file, download it from [Github](https://github.com/kaleguy/leo-examples/tree/master/docs/peterson). To propose an edit to this 
+site, submit a pull request, or alternatively, fork your copy and publish to your own Github pages account.
 
 </t>
 <t tx="leovue.2-1">{

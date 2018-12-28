@@ -307,7 +307,11 @@
 ],
 "url": "https://www.researchgate.net/publication/25961121_Interpersonal_Resonance_Developing_Interpersonal_Biofeedback_for_the_Promotion_of_Empathy_and_Social_Entrainment",
 "key": "/rg/article?title=25961121_Interpersonal_Resonance_Developing_Interpersonal_Biofeedback_for_the_Promotion_of_Empathy_and_Social_Entrainment",
-"cached": "2018-12-21T02:33:40.806Z"
+"cached": "2018-12-21T02:33:40.806Z",
+"params": {
+    "template": "rgarticle"
+}
+
 }</t>
 <t tx="josephorr.20181224141950.1">&lt;summary-table
  :cols="[{show: 'title', label: 'Title'},{show: 'pubdate', label: 'Date'}, {show: 'journal.text', label: 'Journal'}, {show: 'citations', label: 'Citations'}]" &gt;  

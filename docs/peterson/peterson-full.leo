@@ -265,52 +265,51 @@
 </vnodes>
 <tnodes>
 <t tx="josephorr.20181220213416.1">{
-"pubdate": "2019/01/01",
-"title": "Interpersonal Resonance: Developing Interpersonal Biofeedback for the Promotion of Empathy and Social Entrainment",
-"citations": "",
-"references": "33",
-"reads": "852",
-"journal": {
-  "href": "",
-  "text": "(Book) Advances in Human Factors in Wearable Technologies and Game Design"
-},
-"abstract": "We propose an interpersonal biofeedback technology which uses music-like stimuli to convey a user’s physiological information to another observer. It is argued that this interpersonal biofeedback may facilitate empathy and interpersonal entrainment. We argue that music is an optimal carrier for biofeedback because it naturally regulates psychophysiology, is cross-modally associated with emotion, and can be attended to peripherally. We propose a research study to investigate the effects of interpersonal biofeedback on emotional mindreading.",
-"authors": [
-    {
-      "name": {
-        "href": "https://www.researchgate.net/scientific-contributions/2144193706_John_M_Tennant",
-        "text": "John M. Tennant"
-      },
-      "institution": ""
-    },
-    {
-      "name": {
-        "href": "https://www.researchgate.net/scientific-contributions/2144186755_Mihnea_C_Moldoveanu",
-        "text": "Mihnea C. Moldoveanu"
-      },
-      "institution": ""
-    },    
-    {
-      "name": {
-        "href": "https://www.researchgate.net/scientific-contributions/2144221686_Simon_Cook",
-        "text": "Simon Cook"
-      },
-      "institution": ""
-    },    
-    {
-      "name": {
-        "href": "https://www.researchgate.net/profile/Jordan_Peterson2",
-        "text": "Jordan B Peterson"
-      },
-      "institution": "University of Toronto"
-    }
-],
-"url": "https://www.researchgate.net/publication/25961121_Interpersonal_Resonance_Developing_Interpersonal_Biofeedback_for_the_Promotion_of_Empathy_and_Social_Entrainment",
-"key": "/rg/article?title=25961121_Interpersonal_Resonance_Developing_Interpersonal_Biofeedback_for_the_Promotion_of_Empathy_and_Social_Entrainment",
-"cached": "2018-12-21T02:33:40.806Z",
-"params": {
-    "template": "rgarticle"
-}
+	"pubdate": "2019/01/01",
+	"title": "Interpersonal Resonance: Developing Interpersonal Biofeedback for the Promotion of Empathy and Social Entrainment",
+	"citations": "",
+	"references": "33",
+	"reads": "852 Reads",
+	"journal": {
+		"href": "",
+		"text": "(Book) Advances in Human Factors in Wearable Technologies and Game Design"
+	},
+	"abstract": "We propose an interpersonal biofeedback technology which uses music-like stimuli to convey a user’s physiological information to another observer. It is argued that this interpersonal biofeedback may facilitate empathy and interpersonal entrainment. We argue that music is an optimal carrier for biofeedback because it naturally regulates psychophysiology, is cross-modally associated with emotion, and can be attended to peripherally. We propose a research study to investigate the effects of interpersonal biofeedback on emotional mindreading.",
+	"authors": [{
+			"name": {
+				"href": "https://www.researchgate.net/scientific-contributions/2144193706_John_M_Tennant",
+				"text": "John M. Tennant"
+			},
+			"institution": ""
+		},
+		{
+			"name": {
+				"href": "https://www.researchgate.net/scientific-contributions/2144186755_Mihnea_C_Moldoveanu",
+				"text": "Mihnea C. Moldoveanu"
+			},
+			"institution": ""
+		},
+		{
+			"name": {
+				"href": "https://www.researchgate.net/scientific-contributions/2144221686_Simon_Cook",
+				"text": "Simon Cook"
+			},
+			"institution": ""
+		},
+		{
+			"name": {
+				"href": "https://www.researchgate.net/profile/Jordan_Peterson2",
+				"text": "Jordan B Peterson"
+			},
+			"institution": "University of Toronto"
+		}
+	],
+	"url": "https://www.researchgate.net/publication/25961121_Interpersonal_Resonance_Developing_Interpersonal_Biofeedback_for_the_Promotion_of_Empathy_and_Social_Entrainment",
+	"key": "/rg/article?title=25961121_Interpersonal_Resonance_Developing_Interpersonal_Biofeedback_for_the_Promotion_of_Empathy_and_Social_Entrainment",
+	"cached": "2018-12-21T02:33:40.806Z",
+	"params": {
+		"template": "rgarticle"
+	}
 
 }</t>
 <t tx="josephorr.20181224141950.1">&lt;summary-table

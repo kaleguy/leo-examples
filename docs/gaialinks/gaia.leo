@@ -82,6 +82,11 @@
 <v t="josephorr.20180924201944.1"><vh>Solar Power</vh></v>
 </v>
 <v t="josephorr.20181021120433.1"><vh>Coding</vh></v>
+<v t="josephorr.20181022183522.1" a="E"><vh>Movies</vh>
+<v t="josephorr.20181022183524.1" a="E"><vh>2018</vh>
+<v t="josephorr.20181022183529.1"><vh>[Crazy Rich Asians](https://en.wikipedia.org/wiki/Crazy_Rich_Asians_(film))</vh></v>
+</v>
+</v>
 </v>
 </vnodes>
 <tnodes>
@@ -268,5 +273,8 @@ Electronics Course:
 [Instructions on Using Arcade Academy](https://arcade-book.readthedocs.io/en/latest/)
 
 [Raspberry Pi Stop Motion Project](https://projects.raspberrypi.org/en/projects/push-button-stop-motion)</t>
+<t tx="josephorr.20181022183522.1"></t>
+<t tx="josephorr.20181022183524.1"></t>
+<t tx="josephorr.20181022183529.1"></t>
 </tnodes>
 </leo_file>

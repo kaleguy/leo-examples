@@ -10,7 +10,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="leovue.20181220072125_1" a="E"><vh>Research of Jordan Peterson</vh>
-<v t="leovue.20181204092754_1" a="E"><vh>@board All</vh>
+<v t="leovue.20181204092754_1"><vh>@board All</vh>
 <v t="josephorr.20181220213416.1"><vh>@dataSet set2-0a Interpersonal Resonance: Developing Interpersonal Biofeedback for the Promotion of Empathy and Social Entrainment</vh></v>
 <v t="leovue.2-1"><vh>@dataSet set2-1 Improving the effectiveness of performance feedback by considering personality traits and task demands</vh></v>
 <v t="leovue.2-3"><vh>@dataSet set2-3 The publication trajectory of graduate students, post-doctoral fellows, and new professors in psychology</vh></v>
@@ -118,7 +118,7 @@
 <v t="leovue.2-105"><vh>@dataSet set2-105 Response to reward and punishment and the inherited risk for alcoholism</vh></v>
 <v t="leovue.2-107"><vh>@dataSet set2-107 Autonomic hyperreactivity and risk for alcoholism</vh></v>
 </v>
-<v t="josephorr.20181225065128.1" a="E"><vh>Topics</vh>
+<v t="josephorr.20181225065128.1"><vh>Topics</vh>
 <v t="josephorr.20181224141950.1" a="E"><vh>@board Alcoholism and Addiction</vh>
 <v t="leovue.2-50"></v>
 <v t="leovue.2-53"></v>
@@ -261,6 +261,8 @@
 <v t="leovue.2-27"></v>
 </v>
 </v>
+<v t="josephorr.20181228080203.1"><vh>[Jordan B Peterson on Wikipedia](https://en.wikipedia.org/wiki/Jordan_Peterson)</vh></v>
+<v t="josephorr.20181228080308.1"><vh>About this Document</vh></v>
 </v>
 </vnodes>
 <tnodes>
@@ -323,6 +325,13 @@
  :cols="[{show: 'title', label: 'Title'},{show: 'pubdate', label: 'Date'}, {show: 'journal.text', label: 'Journal'}, {show: 'citations', label: 'Citations'}]" &gt;  
 &lt;/summary-table&gt;</t>
 <t tx="josephorr.20181226172138.1"></t>
+<t tx="josephorr.20181228080203.1"></t>
+<t tx="josephorr.20181228080308.1"># About this Document
+
+This outlined site was created with the Open Source outlining editor [Leo](http://www.leoeditor.com) and is being displayed with 
+[LeoVue](https://kaleguy.github.io/leovue/)
+
+</t>
 <t tx="leovue.2-1">{
   "pubdate": "2018/05/22",
   "title": "Improving the effectiveness of performance feedback by considering personality traits and task demands",

@@ -4,6 +4,8 @@
 
 [Gaia's Links](https://kaleguy.github.io/leo-examples/gaialinks)
 
+[Research of Jordan B Peterson](https://kaleguy.github.io/leo-examples/peterson)
+
 [leo4sqlite](https://kaleguy.github.io/leo-examples/leo4sqlite)
 
 [Diagram Example](https://kaleguy.github.io/leo-examples/explaining-postmodernism)

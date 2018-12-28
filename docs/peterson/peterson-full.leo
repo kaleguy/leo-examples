@@ -4527,7 +4527,7 @@ site, submit a pull request, or alternatively, fork your copy and publish to you
 <t tx="leovue.20181204092754_1">@language html
 
 &lt;summary-table
- :cols="[{show: 'title', label: 'Title'},{show: 'pubdate', label: 'Date'}, {show: 'journal.text', label: 'Journal'}, {show: 'citations', label: 'Citations', 'data-type'='numeric'}]" &gt;  
+ :cols="[{show: 'title', label: 'Title'},{show: 'pubdate', label: 'Date'}, {show: 'journal.text', label: 'Journal'}, {show: 'citations', label: 'Citations', dataType:'numeric'}]" &gt;  
 &lt;/summary-table&gt;</t>
 <t tx="leovue.20181220072125_1"></t>
 </tnodes>

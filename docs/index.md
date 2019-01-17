@@ -1,19 +1,18 @@
 # Leo Examples
 
-[Sky's Links](https://kaleguy.github.io/leo-examples/skylinks)
-
-[Gaia's Links](https://kaleguy.github.io/leo-examples/gaialinks)
-
-[Research of Jordan B Peterson](https://kaleguy.github.io/leo-examples/peterson)
+[Research of Jordan B Peterson](https://kaleguy.github.io/jbp)
 
 [leo4sqlite](https://kaleguy.github.io/leo-examples/leo4sqlite)
 
 [Diagram Example](https://kaleguy.github.io/leo-examples/explaining-postmodernism)
 
+[Sky's Links](https://kaleguy.github.io/leo-examples/skylinks)
+
+[Gaia's Links](https://kaleguy.github.io/leo-examples/gaialinks)
+
 
 Example from the xml2leo repository:
 [Shakespeare's Plays](https://kaleguy.github.io/leovue/examples/shakespeare/#/t/1)
-
 
 
 ## How to create your own Leo/Leo Vue site:
